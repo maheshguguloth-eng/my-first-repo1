@@ -3,7 +3,7 @@ modules = ["python-3.11"]
 
 [nix]
 channel = "stable-24_05"
-packages = ["q-text-as-data"]
+packages = ["q-text-as-data", "vim"]
 
 [unitTest]
 language = "python3"
